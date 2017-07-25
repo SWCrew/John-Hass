@@ -1,1 +1,12 @@
-/* Hi John */
+body{
+  background-color:red;
+}
+.white{
+  background-color:white;
+  width:50%;
+ margin:auto;
+  margin-top:15%;
+}
+.weath{
+  text-align:center;
+}
